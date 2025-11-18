@@ -1,0 +1,28 @@
+﻿Product_ID,Product_Name,Category,Size,Unit_Price_List,COGS,product_specific_mult
+CF01_S,Phin Sữa Đá,Coffee,S,35000,10500,1.0
+CF01_M,Phin Sữa Đá,Coffee,M,45000,13500,1.0
+CF01_L,Phin Sữa Đá,Coffee,L,55000,16500,1.0
+CF02_S,Bạc Xỉu,Coffee,S,35000,10500,1.0
+CF02_M,Bạc Xỉu,Coffee,M,45000,13500,1.0
+CF02_L,Bạc Xỉu,Coffee,L,55000,16500,1.0
+CF03_S,Phin Đen Đá,Coffee,S,35000,10500,0.8
+CF03_M,Phin Đen Đá,Coffee,M,45000,13500,0.8
+CF03_L,Phin Đen Đá,Coffee,L,55000,16500,0.8
+TE04_S,Trà Sen Vàng,Tea,S,49000,12250,1.5
+TE04_M,Trà Sen Vàng,Tea,M,59000,14750,1.5
+TE04_L,Trà Sen Vàng,Tea,L,69000,17250,1.5
+TE05_S,Trà Thạch Vải,Tea,S,49000,12250,1.0
+TE05_M,Trà Thạch Vải,Tea,M,59000,14750,1.0
+TE05_L,Trà Thạch Vải,Tea,L,69000,17250,1.0
+TE06_S,Trà Thanh Đào,Tea,S,49000,12250,1.0
+TE06_M,Trà Thanh Đào,Tea,M,59000,14750,1.0
+TE06_L,Trà Thanh Đào,Tea,L,69000,17250,1.0
+FR07_S,Freeze Sô-cô-la,Freeze,S,59000,11800,1.2
+FR07_M,Freeze Sô-cô-la,Freeze,M,69000,13800,1.2
+FR07_L,Freeze Sô-cô-la,Freeze,L,79000,15800,1.2
+FR08_S,Freeze Trà Xanh,Freeze,S,59000,11800,1.2
+FR08_M,Freeze Trà Xanh,Freeze,M,69000,13800,1.2
+FR08_L,Freeze Trà Xanh,Freeze,L,79000,15800,1.2
+FR09_S,Cookies & Cream,Freeze,S,59000,11800,1.2
+FR09_M,Cookies & Cream,Freeze,M,69000,13800,1.2
+FR09_L,Cookies & Cream,Freeze,L,79000,15800,1.2
